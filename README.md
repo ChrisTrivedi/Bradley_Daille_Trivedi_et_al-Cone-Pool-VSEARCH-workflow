@@ -6,3 +6,5 @@ This shell script can be used as such or by executing commands individually. Per
 Please keep in mind this is more for my own consistency of data processing over different sample types. At this time I can offer no support on any issues.
 
 NOTE: This script was used to process data for an upcoming publication by Bradley, Daille, and Trivedi et al. (in prep.)
+
+[![DOI](https://zenodo.org/badge/90892824.svg)](https://zenodo.org/badge/latestdoi/90892824)
