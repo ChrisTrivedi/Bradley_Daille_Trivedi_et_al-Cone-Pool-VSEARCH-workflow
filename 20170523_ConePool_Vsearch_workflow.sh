@@ -7,6 +7,8 @@
 
 # While you can run this as a shell script, I find that running each command individually tends to work better.
 
+# Also note the use of 'time' at the beginning of some of my scripts. This is purely for my own purposes to track how long individual scripts are taking to run.
+
 ### Dependent Software ###
 # QIIME 1.9.1 at the time of this analysis
 # VSEARCH (v2.3.4.osx_x86_64 used for this analysis), https://github.com/torognes/vsearch
