@@ -1,4 +1,4 @@
-# VSEARCH workflow
+# Bradley_Daille_Trivedi_et_al-VSEARCH workflow
 A shell script used to process raw Illumina paired-end amplicon data through VSEARCH and QIIME.
 
 This shell script can be used as such or by executing commands individually. Personally, I like to go through each separately.
